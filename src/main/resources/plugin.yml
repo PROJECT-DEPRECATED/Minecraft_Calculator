@@ -1,0 +1,10 @@
+name: Calculator
+author: Project_TL
+version: 1.0v
+api-version: 1.16
+main: org.projecttl.plugin.minecraft.calculator.CalculatorPlugin
+
+commands:
+  calculator:
+    description: You can calculating number!
+    usage: /calculator <Calculating type> [Bit Left or Right // Dev] <First Number> <Second Number>
